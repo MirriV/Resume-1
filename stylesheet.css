@@ -1,11 +1,15 @@
 body{
   font-family: sans-serif;
-  font-size:110%;
+  font-size:px;
+  color: navy;
   background-color: #FCF7F8;
+
 }
 
 header {
   text-align: center;
+  color: #ffc;
+  background-color: #009;
 }
 
 footer {
