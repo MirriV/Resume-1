@@ -1,18 +1,19 @@
 body{
   font-family: sans-serif;
   font: size 14px;
-  color: navy;
-  background-color: #FCF7F8;
+  color: #212529;
+  background-color: #f1dca7;
 
 }
 
 header {
   text-align: center;
-  color: #ffc;
-  background-color: #009;
+  color: #212529;
+  background-color: #d9ae94;
 }
 
 footer {
-  background-color: #343330;
+  background-color: #d9ae94;
   text-align: center;
+  color: #212529;
 }
