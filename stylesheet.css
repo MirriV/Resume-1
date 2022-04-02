@@ -28,3 +28,17 @@ footer {
   background-color:#d9ae94;
   width:150px;
 }
+h2 {
+  font-size: 20px;
+  background-color:#d9ae94;
+  margin: 10px;
+  padding: 10px;
+}
+h2 {
+  border-style: solid;
+  border-width: 3px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-color:#212529;
+  border-radius: 10px 10px 10px 10px;    
+}
