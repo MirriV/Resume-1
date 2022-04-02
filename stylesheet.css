@@ -20,8 +20,11 @@ footer {
 
 .link{
   color:#212529;
-  background-color: aqua;
 }
 #Education{
-  color: red;
+  color:#212529;
+}
+#Menu{
+  background-color:#d9ae94;
+  width:150px;
 }
