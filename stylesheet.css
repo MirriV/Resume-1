@@ -1,3 +1,4 @@
+
 body{
   font-family: arial;
   font: size 14px;
@@ -27,7 +28,7 @@ footer {
   color:#212529;
 }
 #Menu{
-  background-color:#d9ae94;
+  background-color:#a4c3b2;
   width:150px;
   padding: 1rem;
 
@@ -46,4 +47,9 @@ padding: 0%;
 .icons{
   width:2rem;
   margin:0.5rem;
+}
+.main{
+display: flex;
+flex-direction: row;
+overflow: unset;  
 }
